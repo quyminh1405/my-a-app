@@ -42,8 +42,7 @@
 
         <activity android:name=".DetailScreen"/>
 
-
-
+        <activity android:name=".SearchDayScreen"/>
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
